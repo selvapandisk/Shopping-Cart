@@ -1,0 +1,14 @@
+.warning{
+    height: 40px;
+    width: 200px;
+    position: fixed;
+    right: 15px;
+    top: 10%;
+    background-color: rgb(210, 91, 91);
+    font-size: 1.1rem;
+    color: white;
+    font-family: cursive;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
